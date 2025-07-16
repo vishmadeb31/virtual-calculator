@@ -44,6 +44,3 @@ It helped me understand event handling, DOM manipulation, and basic styling.
 
 License
 Free for anyone to use or modify.
-
-Made by
-Vishmadeb Mandal — Feel free to suggest improvements or use it in your projects.
